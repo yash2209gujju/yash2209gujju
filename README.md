@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**yash2209gujju/yash2209gujju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is yash
+#### I am web developer from india.
+![I am web developer from india.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the front end web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: BOOTSTRAP/JQUERY / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
